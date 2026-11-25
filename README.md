@@ -48,7 +48,7 @@ price-sentinel/
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/price-sentinel.git
+   git clone https://github.com/christiian.gv/price-sentinel.git
    cd price-sentinel
    ```
 
